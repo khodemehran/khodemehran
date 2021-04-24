@@ -1,0 +1,5 @@
+- 👋 Hi, I’m mehran bidkhori
+- 👀 I’m interested in Embedded systems , Electronics , image image processing.
+- 🌱 I’m currently learning code for stm32 and raspberry pi and altium designer.
+- 💞️ I’m looking to collaborate on Embedded systems, image processing
+- 📫 you can reach me on this way : mehranbidkhori@gmail.com or telegram : @keeper_of_light , instagram : @mehranov_.
